@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Solway';
+    src: url('Solway-Light.woff2') format('woff2'),
+        url('Solway-Light.woff') format('woff'),
+        url('Solway-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Solway';
+    src: url('Solway-ExtraBold.woff2') format('woff2'),
+        url('Solway-ExtraBold.woff') format('woff'),
+        url('Solway-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Solway';
+    src: url('Solway-Regular.woff2') format('woff2'),
+        url('Solway-Regular.woff') format('woff'),
+        url('Solway-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Solway';
+    src: url('Solway-Bold.woff2') format('woff2'),
+        url('Solway-Bold.woff') format('woff'),
+        url('Solway-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Solway';
+    src: url('Solway-Medium.woff2') format('woff2'),
+        url('Solway-Medium.woff') format('woff'),
+        url('Solway-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
